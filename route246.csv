@@ -3,3 +3,4 @@ date,day,holiday,time.depart,time.arrive,weather,to,route,traffic.lights,constru
 2015-03-15,Sunday,1,9:05,10:10,cloudy,Laboratory,1A,18,1,0,0,bit,studless,none,none,normal
 2015-03-16,Monday,0,0:27,1:25,cloudy,Home,1B,15,0,0,0,bit,studless,none,none,normal
 2015-03-16,Monday,0,7:47,9:19,cloudy,Laboratory,2A,15,0,0,1,bit,studless,radio,none,normal
+2015-03-17,Tuesday,0,0:47,1:38,rainy,Home,1A,10,1,0,0,empty,studless,none,none,normal
