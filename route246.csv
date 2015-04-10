@@ -11,3 +11,4 @@ date,day,holiday,time.depart,time.arrive,weather,to,route,traffic.lights,constru
 2015-03-29,Sunday,1,10:51,12:53,cloudy,Laboratory,1A,16,0,1,1,full,studless,radio,none,normal
 2015-03-30,Monday,0,0:50,1:50,cloudy,Home,1A,13,0,0,0,full,studless,none,none,normal
 2015-04-09,Thursday,0,11:15,12:36,sunny,Laboratory,1A,17,0,0,0,sufficient,studless,radio,none,normal
+2015-04-10,Friday,0,0:57,1:53,cloudy,Home,1A,9,0,0,1,sufficient,studless,none,none,normal
