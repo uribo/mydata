@@ -17,3 +17,6 @@ date,day,holiday,time.depart,time.arrive,weather,to,route,traffic.lights,constru
 2015-04-20,Monday,0,0:13,1:13,sunny,Home,1A,13,0,0,0,sufficient,normal,none,none,normal
 2015-05-02,Saturday,1,12:44,13:55,sunny,Laboratory,1A,16,0,0,0,sufficient,normal,none,none,normal
 2015-05-03,Sunday,1,0:57,2:00,sunny,Home,1A,13,0,0,0,bit,normal,music,none,normal
+2015-05-05,Tuesday,1,0:57,1:57,sunny,Home,1A,12,0,0,0,empty,normal,none,none,normal
+2015-05-05,Tuesday,1,12:58,2:08,sunny,Laboratory,1A,17,0,0,0,full,normal,none,none,normal
+2015-05-06,Wednesday,1,0:58,1:56,sunny,Home,1A,9,0,0,0,full,normal,none,none,normal
